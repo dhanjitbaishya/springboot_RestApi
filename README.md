@@ -7,7 +7,7 @@ A)Prerequisites
 B)Clone the Repository
 C)Open STS.
 D)In the menu, go to File > Import > Git > Projects from Git.
-  1)Choose Clone URI and enter the repository URL:  https://github.com/your-username/your-repo-name.git
+  1)Choose Clone URI and enter the repository URL:  https://github.com/dhanjitbaishya/springboot_RestApi.git
   2)Click through the wizard to import the project into your workspace.
 C)Run the Application(Run as springboot app)
   1)In the Project Explorer, locate the project.
